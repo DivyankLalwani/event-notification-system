@@ -1,0 +1,1 @@
+package com.example.event.model; public enum EventType {EMAIL,SMS,PUSH;}
