@@ -147,9 +147,4 @@ GET /api/events/{eventId}
 * Graceful shutdown support
 * Dockerized deployment
 * JUnit test coverage
----
-
-## Callback Notification
-
-System sends HTTP POST request to:
 
